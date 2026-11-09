@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="pansou.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.71891835"
+     inkscape:cx="397.12437"
+     inkscape:cy="227.42499"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <mask
+       id="search-b"
+       fill="#ffffff">
+      <path
+         id="use1"
+         d="M 11.709961,0.57250977 C 9.469401,1.2901204 7.9995117,3.0541992 7.300293,5.8647461 6.2514648,10.080566 4.9516602,10.618164 0.7199707,9.1186523 2.2397461,11.925781 5.3200684,13.05127 7.300293,13.05127 c 1.9802246,0 7.108887,-2.75708 6.52124,-7.9978032 C 13.311442,3.5270996 12.607585,2.0334473 11.709961,0.57250977 Z" />
+    </mask>
+    <mask
+       id="search-d"
+       fill="#ffffff">
+      <path
+         id="use3"
+         d="m 14.179138,12.770149 5.530928,5.539992 c 0.386579,0.386579 0.386579,1.013346 0,1.399925 -0.386579,0.386579 -1.013346,0.386579 -1.399925,0 L 12.780347,14.171211 C 11.438525,15.216023 9.7515233,15.838343 7.9191714,15.838343 3.5455338,15.838343 0,12.292809 0,7.9191714 0,3.5455338 3.5455338,0 7.9191714,0 c 4.3736376,0 7.9191716,3.5455338 7.9191716,7.9191714 0,1.8277131 -0.619173,3.5108106 -1.659205,4.8509776 z M 7.9191714,13.85855 c 3.2802286,0 5.9393786,-2.65915 5.9393786,-5.9393786 0,-3.2802282 -2.65915,-5.9393786 -5.9393786,-5.9393786 -3.2802282,0 -5.9393786,2.6591504 -5.9393786,5.9393786 0,3.2802286 2.6591504,5.9393786 5.9393786,5.9393786 z" />
+    </mask>
+    <mask
+       id="mask5"
+       fill="#ffffff">
+      <path
+         id="use5"
+         d="m 14.179138,12.770149 5.530928,5.539992 c 0.386579,0.386579 0.386579,1.013346 0,1.399925 -0.386579,0.386579 -1.013346,0.386579 -1.399925,0 L 12.780347,14.171211 C 11.438525,15.216023 9.7515233,15.838343 7.9191714,15.838343 3.5455338,15.838343 0,12.292809 0,7.9191714 0,3.5455338 3.5455338,0 7.9191714,0 c 4.3736376,0 7.9191716,3.5455338 7.9191716,7.9191714 0,1.8277131 -0.619173,3.5108106 -1.659205,4.8509776 z M 7.9191714,13.85855 c 3.2802286,0 5.9393786,-2.65915 5.9393786,-5.9393786 0,-3.2802282 -2.65915,-5.9393786 -5.9393786,-5.9393786 -3.2802282,0 -5.9393786,2.6591504 -5.9393786,5.9393786 0,3.2802286 2.6591504,5.9393786 5.9393786,5.9393786 z" />
+    </mask>
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#05abfe;fill-opacity:1;stroke-width:0.538001;stroke:none"
+       id="rect1"
+       width="135.46666"
+       height="135.46666"
+       x="0"
+       y="0"
+       rx="29.633333"
+       ry="29.633333" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:85.4627px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#f502bc;fill-opacity:1;stroke:#ffffff;stroke-width:0.912636;stroke-opacity:1"
+       x="8.4143724"
+       y="98.321304"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.912636;stroke:#ffffff;stroke-opacity:1"
+         x="8.4143724"
+         y="98.321304">So</tspan></text>
+  </g>
+</svg>
